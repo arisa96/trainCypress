@@ -1,0 +1,4 @@
+Cypress/reports/*
+node_modules/*
+reports/*
+Cypress/results/*
